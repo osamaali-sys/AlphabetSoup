@@ -20,7 +20,7 @@ In this challange we had over 34,000 rows in our data file, initially we cleaned
 
 We used Random Forest as our algorithm. 
 
-hidden_nodes_layer1 =  24, hidden_nodes_layer2 = 10
+hidden_nodes_layer1 =  24, hidden_nodes_layer2 = 10, hidden_nodes_layer3 = 6
 
 I tried to increase n_estimators, change verbose between 0-2, added and removed hidden layers. i was not able to increase accuracy to over 75%
 
